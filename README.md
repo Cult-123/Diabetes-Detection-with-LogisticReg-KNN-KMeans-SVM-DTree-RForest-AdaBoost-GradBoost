@@ -18,3 +18,16 @@ In this challenge, we have to build a predictive model that answers the question
 
 ## Project Overview
 In this Project I have unleashed the useful Data Science insights using this Diabetes dataset and performed the feature selection, feature engineering & missing data handling precisely to build Classification models. In this project I have used 8 types of Classification Algorithms which are Logistic Regression, KNN, KMeans, Support Vector Machine, Decision Tree, Random Forest, Ada-Boost-Classifier, Gradient-Boosting-Classifier. 8 Algorithms along with combining the power of best statistical rules & principles to maximise accuracy at its best followed by all statistical conditions. The best thing is my model is not having any Multicollinearity Problem. All features are fulfilling Statistically Significant concept respect to the target variable. I also have balanced the Target Variable ie Outcome by using Over Sampling Technique.
+
+## Selected Features
+From the Diabetes DataSet, Statistically Significant Selected Features are as follows:
+
+- 'DiabetesPedigreeFunction' - Diabetes pedigree function
+
+- 'Glucose-Level_High' - Categorical Feature
+
+- 'BMI-Level_Normal' - categorical Feature
+
+- 'Age-Category_Middle_Aged' - Categorical Feature
+
+- 'Age-Category_Senior_Citizen' - Categorical Feature
