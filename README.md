@@ -1,14 +1,14 @@
 # Diabetes-Detection-with-LogisticReg-KNN-KMeans-SVM-DTree-RForest-AdaBoost-GradBoost
 Python Data Science Project, Diabetes Detection using:
 
-- LogisticRegression (90.30 % Accuracy)
-- KNN (89.28 % Accuracy)
-- KMeans (58%)
-- Support Vector Machine (88.26%)
-- Decision Tree (86.22 % Accuracy)
-- Random Forest (90.81 % Accuracy)
-- AdaBoostClassifier (89.28 % Accuracy)
-- GradientBoostingClassifier (86.22 % Accuracy)
+- LogisticRegression (82 % Accuracy)
+- KNN (75 % Accuracy)
+- KMeans (44 % Accuracy)
+- Support Vector Machine (82 % Accuracy)
+- Decision Tree (82 % Accuracy)
+- Random Forest (82 % Accuracy)
+- AdaBoostClassifier (81 % Accuracy)
+- GradientBoostingClassifier (81 % Accuracy)
 
 For other Accuracy Details Please Check the Project. Other Accuracy Criterias are AUC & ROC Curve, Confusion Matrix, Classification Report, recall_score, precision_score etc.
 
